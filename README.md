@@ -1,6 +1,10 @@
 # coffeescript-module
 
-A base class for your Coffeescript projects.
+A base little class for your Coffeescript projects.
+
+```
+npm install coffeescript-module
+```
 
 ## Examples
 
@@ -29,3 +33,11 @@ bar.d     # gets Bar::c
 baz = new Baz()
 baz.b()   # calls Bar::a()
 ```
+
+## Contributing
+
+If you have a useful addition or a bug fix, send a pull request!
+
+## TODO
+
+* Write tests
