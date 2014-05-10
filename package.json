@@ -1,7 +1,7 @@
 {
   "name": "coffeescript-module",
   "description": "A base class for your Coffeescript projects",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": "Ryan LeFevre <meltingice8917@gmail.com> (http://meltingice.net)",
   "homepage": "http://meltingice.net/2013/03/06/a-coffeescript-base-class/",
   "main": "./lib",

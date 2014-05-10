@@ -27,7 +27,7 @@ exports.Module = class Module
     for key, value of obj when key not in moduleKeywords
       @[key] = value
 
-    obj.extended?.apply(@)
+    obj.extended?.call(@, @)
     @
 
   # Include methods on the object prototype
@@ -36,7 +36,7 @@ exports.Module = class Module
       # Assign properties to the prototype
       @::[key] = value
 
-    obj.included?.apply(@)
+    obj.included?.call(@, @)
     @
 
   # Add methods on this prototype that point to another method
