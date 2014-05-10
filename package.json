@@ -4,7 +4,7 @@
   "version": "0.1.1",
   "author": "Ryan LeFevre <meltingice8917@gmail.com> (http://meltingice.net)",
   "homepage": "http://meltingice.net/2013/03/06/a-coffeescript-base-class/",
-  "main": "./src",
+  "main": "./lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/meltingice/coffeescript-module"
