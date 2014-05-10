@@ -1,7 +1,7 @@
 {
   "name": "coffeescript-module",
   "description": "A base class for your Coffeescript projects",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "Ryan LeFevre <meltingice8917@gmail.com> (http://meltingice.net)",
   "homepage": "http://meltingice.net/2013/03/06/a-coffeescript-base-class/",
   "main": "./src",
@@ -10,6 +10,6 @@
     "url": "https://github.com/meltingice/coffeescript-module"
   },
   "dependencies": {
-    "coffee-script": ">= 1.6.1"
+    "coffee-script": ">= 1.7.1"
   }
 }
