@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/meltingice/coffeescript-module"
   },
-  "dependencies": {
-    "coffee-script": ">= 1.7.1"
+  "devDependencies": {
+    "coffee-script": "~ 1.7.1"
   }
 }
